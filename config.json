@@ -1,0 +1,7 @@
+{
+  "name": "BeerPoS",
+  "short_description": "A Shareable Checkout Cart PoS (Point of Sale)",
+  "tile": "/beerpos/static/image/beerpos.png",
+  "contributors": ["prusnak", "talvasconcelos", "arcbtc", "leesalminen"],
+  "min_lnbits_version": "0.11.0"
+}
