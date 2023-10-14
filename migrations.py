@@ -10,7 +10,8 @@ async def m001_initial(db):
             tip_wallet TEXT NULL,
             tip_options TEXT NULL,
             name TEXT NOT NULL,
-            currency TEXT NOT NULL
+            currency TEXT NOT NULL,
+            products TEXT NULL
         );
     """
     )
